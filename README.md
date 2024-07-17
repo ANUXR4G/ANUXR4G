@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">Front-End Dev.</h3>
-![I am BCA Student ](https://1000logos.net/wp-content/uploads/2019/02/Punisher-logo.jpg)
 - 🔭 I’m currently working in **DJT Corporation Pvt Ltd.**
 
 - 🌱 I’m currently learning **React**
