@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">Front-End Dev.</h3>
-- 🔭 I’m currently working in **DJT Corporation Pvt Ltd.**
+
+- 🔭 I’m currently working in [DJT Corporation Pvt Ltd.](https://www.djtcorp.in/)
 
 - 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://anuxr4g-personal-portfolio.vercel.app/](https://anuxr4g-personal-portfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript REACT.js**
 
