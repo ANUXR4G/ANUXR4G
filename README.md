@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anuxr4g-personal-portfolio.vercel.app/](https://anuxr4g-personal-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript REACT.js**
+- 💬 Ask me about **HTML, CSS, Javascript REACT.JS**
 
 - 📫 How to reach me **anun20003@gmail.com**
 
