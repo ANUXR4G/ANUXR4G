@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **anun20003@gmail.com**
 
-<a href="https://buymeacoffee.com/anuxr4g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/anuxr4g"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anuxr4g" /></a></p><br><br>
 <p align="left">
 </p>
 
