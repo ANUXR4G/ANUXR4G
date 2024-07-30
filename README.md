@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACT.JS**
 
-- 👨‍💻 All of my projects are available at [https://anurag-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at https://anurag-personal-portfolio.vercel.app/
 
 - 💬 Ask me about **HTML, CSS, Javascript & REACT.JS**
 
