@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://anurag-personal-portfolio.vercel.app/
 
-- 💬 Ask me about **HTML, CSS, Javascript & REACT.JS**
+- 💬 Ask me about **HTML, CSS, Javascript, REACT.JS & Next.JS**
 
 - 📫 How to reach me **anun20003@gmail.com**
 
