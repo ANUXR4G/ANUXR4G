@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [DJT Corporation Pvt Ltd.](https://www.djtcorp.in/)
 
-- 🌱 I’m currently learning **REACT.JS**
+- 🌱 I’m currently learning **REACT.JS & NEXT.JS**
 
 - 👨‍💻 All of my projects are available at https://anurag-personal-portfolio.vercel.app/
 
