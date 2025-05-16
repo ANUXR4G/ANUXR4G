@@ -10,7 +10,7 @@
 - 📫 How to reach me **anun20003@gmail.com**
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anuxr4g"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anuxr4g" /></a></p><br><br>
+<br><br>
 <p align="left">
 </p>
 
